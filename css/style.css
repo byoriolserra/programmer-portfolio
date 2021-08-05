@@ -30,7 +30,8 @@ header {
 
 header h1 {
     letter-spacing: 0.1rem;
-    font-weight: 600;
+    font-size: 1.8rem;
+    font-weight: 500;
 }
 
 header li {

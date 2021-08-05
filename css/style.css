@@ -8,6 +8,12 @@ body {
     padding: 0 2.5rem;
 }
 
+a {
+    cursor: pointer;
+    color: #211A1D;
+    text-decoration: none;
+}
+
 /* HEADER */
 
 header {

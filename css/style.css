@@ -42,3 +42,35 @@ header li {
 header hr {
     opacity: 0.4;
 }
+
+/* ABOUT ME */
+
+#me {
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#me img {
+    width: 25%;
+    height: auto;
+    position: relative;
+    right: 3rem;
+}
+
+#me-text {
+    position: relative;
+    bottom: 2rem;
+    text-align: left;
+}
+
+#me-text h2 {
+    font-size: 2rem;
+}
+
+#me-text p {
+    font-size: 1.3rem;
+    line-height: 2rem;
+}

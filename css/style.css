@@ -78,7 +78,7 @@ header hr {
 
 /* PROJECTS */
 
-#projects {
+.section-container {
     margin: 4.7rem auto;
     width: 78%;
     display: flex;
@@ -103,4 +103,6 @@ header hr {
     align-items: center;
     color: white;
     opacity: 0.7;
+    border-radius: 4%;
 }
+
